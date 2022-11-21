@@ -7,3 +7,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript and React
 - 👯 I’m looking to collaborate on front end react project
 - 🤔 Familiar with C,C++, HTML , CSS and DSA.
+
+
+[![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=asaluja00)](https://github.com/asaluja00/github-readme-stats)
