@@ -9,6 +9,4 @@ Here are some ideas to get you started:
 - 🤔 Familiar with C,C++, HTML , CSS and DSA.
 
 
-[![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=asaluja00)](https://github.com/asaluja00/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=asaluja00)](https://git.io/streak-stats)
+[![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=asaluja00)](https://github.com/asaluja00/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=asaluja00)](https://git.io/streak-stats)
